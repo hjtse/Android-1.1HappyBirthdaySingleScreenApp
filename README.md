@@ -3,7 +3,7 @@
 Project Overview. Lessons 1-4
 First App. Create a single screen Happy Birthday App
 
-<img src="https://github.com/hjtse/Android-HappyBirthdaySingleScreenApp/blob/master/layout-2018-05-10-205621.png" width="100">
+<img src="https://github.com/hjtse/Android-HappyBirthdaySingleScreenApp/blob/master/layout-2018-05-10-205621.png" width="500">
 
 
 Grow With Google Challenge Scholarship: Android Basics
